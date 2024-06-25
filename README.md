@@ -4,3 +4,4 @@ The study used non-sensitive accelerometer data to detect periods of heavy drink
 Permutation entropy and complexity method was tested to check if it is reliable in differentiating heavy drinking vs. sober cases.
 
 Use the data provided in this article: https://archive.ics.uci.edu/dataset/515/bar+crawl+detecting+heavy+drinking)
+Permutation Entropy & Complexity functiions source : https://github.com/srk-srinivasan/Permutation-Entropy
